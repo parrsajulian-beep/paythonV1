@@ -1,0 +1,16 @@
+[
+    {
+        "codigo": "11111",
+        "nombre": "cmd 9",
+        "categoria": "pc",
+        "cantidad": 20,
+        "precio": 20000.0
+    },
+    {
+        "codigo": "22222",
+        "nombre": "sandias",
+        "categoria": "fruta",
+        "cantidad": 200,
+        "precio": 2300000.0
+    }
+]
